@@ -18,4 +18,4 @@ num.reverse()
 print("sorted in decending",num)
 Guys[1]="raj" #mutable
 print(Guys)
-
+a= input(int('enter the value: '))

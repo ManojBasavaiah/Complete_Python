@@ -48,3 +48,4 @@ print('Current URL:', driver.current_url)
 # Close the browser window
 # driver.close()
 driver.quit()
+
